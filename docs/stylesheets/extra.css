@@ -139,8 +139,12 @@ html {
   margin: 0;
 }
 
+.acessweb-hero h1 span {
+  white-space: nowrap;
+}
+
 .acessweb-title__break {
-  display: inline;
+  display: block;
 }
 
 .acessweb-hero__lead {
@@ -304,10 +308,6 @@ html {
   .acessweb-hero h1 {
     font-size: clamp(2.75rem, 15vw, 3.6rem);
     line-height: 0.95;
-  }
-
-  .acessweb-title__break {
-    display: block;
   }
 
   .acessweb-grid {

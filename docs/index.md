@@ -73,8 +73,8 @@
   <div class="acessweb-person" role="listitem">Luís Felipe</div>
   <div class="acessweb-person" role="listitem">João Pedro</div>
   <div class="acessweb-person" role="listitem">Joaquim José</div>
-  <div class="acessweb-person" role="listitem">Johnnatan de Salles (John)</div>
+  <div class="acessweb-person" role="listitem">Johnnatan Salles</div>
   <div class="acessweb-person" role="listitem">André Henrique</div>
   <div class="acessweb-person" role="listitem">Giovanna Felipe</div>
-  <div class="acessweb-person" role="listitem">Renato Araújo</div>
+  <div class="acessweb-person" role="listitem">Renato Gameiro</div>
 </div>

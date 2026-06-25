@@ -82,11 +82,46 @@ O **AcessWeb** concentra o checklist da disciplina de **Interação Humano-Compu
 ## Equipe
 
 <div class="acessweb-team" role="list" aria-label="Integrantes do Grupo 03">
-  <div class="acessweb-person" role="listitem">Luís Felipe</div>
-  <div class="acessweb-person" role="listitem">João Pedro</div>
-  <div class="acessweb-person" role="listitem">Joaquim José</div>
-  <div class="acessweb-person" role="listitem">Johnnatan Salles</div>
-  <div class="acessweb-person" role="listitem">André Henrique</div>
-  <div class="acessweb-person" role="listitem">Giovanna Felipe</div>
-  <div class="acessweb-person" role="listitem">Renato Gameiro</div>
+  <a class="acessweb-member" role="listitem" href="https://github.com/cunha-luiss">
+    <img class="acessweb-member__avatar" src="https://github.com/cunha-luiss.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">Luís Felipe Parreira</span>
+    <span class="acessweb-member__role">Líder</span>
+    <span class="acessweb-member__handle">@cunha-luiss</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/ojplc">
+    <img class="acessweb-member__avatar" src="https://github.com/ojplc.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">João Pedro</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@ojplc</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/jsalless">
+    <img class="acessweb-member__avatar" src="https://github.com/jsalless.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">Johnnatan Salles</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@jsalless</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/andrehsb">
+    <img class="acessweb-member__avatar" src="https://github.com/andrehsb.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">André Henrique</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@andrehsb</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/giovannafg">
+    <img class="acessweb-member__avatar" src="https://github.com/giovannafg.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">Giovanna Felipe</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@giovannafg</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/renatoyx">
+    <img class="acessweb-member__avatar" src="https://github.com/renatoyx.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">Renato Gameiro</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@renatoyx</span>
+  </a>
+  <a class="acessweb-member" role="listitem" href="https://github.com/jj-viana">
+    <img class="acessweb-member__avatar" src="https://github.com/jj-viana.png?size=200" alt="" loading="lazy">
+    <span class="acessweb-member__name">Joaquim José</span>
+    <span class="acessweb-member__role">Integrante</span>
+    <span class="acessweb-member__handle">@jj-viana</span>
+  </a>
 </div>

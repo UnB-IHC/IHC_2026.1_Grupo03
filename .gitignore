@@ -1,0 +1,54 @@
+# Mkdocs - artefatos locais de desenvolvimento (o /site/ e versionado para publicacao via GitHub Pages)
+/.mkdocs_cache/
+
+# Python - ambientes e caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.eggs/
+*.egg-info/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Distribuicao
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+.installed.cfg
+MANIFEST
+
+# Editores / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs e temporarios
+*.log
+*.tmp
+*.bak
+.cache/
+
+# Variaveis de ambiente
+.env
+.env.local

@@ -10,9 +10,9 @@
 
 ## Sobre o projeto
 
-O **AcessWeb** é o relatório de **Avaliação dos Sites Samsung e Apple**, desenvolvido pelo Grupo 03 da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília (UnB).
+O **AcessWeb** é um site de checklist interativo de acessibilidade digital, desenvolvido pelo Grupo 03 da disciplina de **Interação Humano-Computador** do curso de Engenharia de Software da Universidade de Brasília (UnB).
 
-O projeto reúne análises de acessibilidade e usabilidade fundamentadas nas diretrizes WCAG, em normas ABNT e nas heurísticas de Nielsen. As avaliações incluem registros de evidências, checklists, comparação entre os sites e resultados obtidos com a ferramenta WAVE.
+O checklist foi organizado por categorias para apoiar avaliações de interfaces web com base em boas práticas de IHC, critérios WCAG, referências ABNT e heurísticas de Nielsen. Cada página permite marcar os itens avaliados e acompanhar o progresso localmente no navegador.
 
 ## Informações acadêmicas
 

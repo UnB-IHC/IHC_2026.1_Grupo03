@@ -1,19 +1,20 @@
 <section class="acessweb-hero" aria-labelledby="acessweb-title">
   <div>
-    <p class="acessweb-hero__eyebrow">Acessibilidade digital · Grupo 03</p>
+    <p class="acessweb-hero__eyebrow">Interação Humano-Computador · Grupo 03</p>
     <h1 id="acessweb-title" aria-label="AcessWeb">
       <span>Acess</span><span class="acessweb-title__break">Web</span>
     </h1>
     <p class="acessweb-hero__lead">
-      Avaliação de acessibilidade e usabilidade dos sites da Apple e da Samsung,
-      fundamentada em critérios WCAG, normas ABNT e heurísticas de Nielsen.
+      Checklist interativo de acessibilidade digital, organizado por categorias
+      para apoiar avaliações de interfaces web com base em boas práticas de IHC,
+      WCAG, ABNT e heurísticas de Nielsen.
     </p>
     <div class="acessweb-hero__actions">
-      <a class="acessweb-button acessweb-button--primary" href="apple/resumo/">
-        Explorar avaliações
+      <a class="acessweb-button acessweb-button--primary" href="checklist/desenvolvimento-e-testes/">
+        Começar checklist
       </a>
-      <a class="acessweb-button" href="comparacao/comparacao/">
-        Ver comparação
+      <a class="acessweb-button" href="checklist/conteudo/">
+        Ir para conteúdo
       </a>
     </div>
   </div>
@@ -22,37 +23,48 @@
   </div>
 </section>
 
-## Sobre o projeto
+## Checklist Interativo
 
-<p class="acessweb-intro">
-  O <strong>AcessWeb</strong> reúne os resultados do relatório
-  <strong>Avaliação dos Sites Samsung e Apple</strong>. O objetivo é identificar
-  barreiras, registrar evidências e comparar como cada interface atende às
-  necessidades de diferentes pessoas usuárias.
-</p>
+O **AcessWeb** concentra o checklist da disciplina de **Interação Humano-Computador** em páginas temáticas, clicáveis e navegáveis pelo menu. Cada categoria pode ser preenchida de forma independente, e o progresso fica salvo apenas no navegador de quem está usando o site.
 
-## Explore a avaliação
+!!! info "Como usar"
+    Escolha uma categoria no menu, marque os itens avaliados e acompanhe o progresso da própria página. Use **Limpar progresso desta página** quando quiser reiniciar uma categoria.
 
-<div class="acessweb-grid">
-  <a class="acessweb-card" href="apple/resumo/">
-    <span class="acessweb-card__number">01 · APPLE</span>
-    <strong>Avaliação do site da Apple</strong>
-    <p>Resultados por critérios de acessibilidade, conformidade e usabilidade.</p>
+!!! note "Arquivos originais"
+    O conteúdo foi convertido a partir dos arquivos anexados pelo grupo: [DOCX](assets/checklists/checklist-pocket-ihc.docx) e [PDF](assets/checklists/checklist-pocket-ihc.pdf).
+
+<div class="checklist-index-grid">
+  <a class="checklist-index-card" href="checklist/desenvolvimento-e-testes/">
+    <strong>Desenvolvimento e testes</strong>
+    <span>18 itens</span>
   </a>
-  <a class="acessweb-card" href="samsung/resumo/">
-    <span class="acessweb-card__number">02 · SAMSUNG</span>
-    <strong>Avaliação do site da Samsung</strong>
-    <p>Análise das barreiras encontradas e das boas práticas observadas.</p>
+  <a class="checklist-index-card" href="checklist/privacidade-e-seguranca/">
+    <strong>Privacidade e segurança</strong>
+    <span>12 itens</span>
   </a>
-  <a class="acessweb-card" href="comparacao/comparacao/">
-    <span class="acessweb-card__number">03 · COMPARAÇÃO</span>
-    <strong>Comparação entre os sites</strong>
-    <p>Visão conjunta dos resultados para apoiar a discussão e a conclusão.</p>
+  <a class="checklist-index-card" href="checklist/navegacao/">
+    <strong>Navegação</strong>
+    <span>36 itens</span>
   </a>
-  <a class="acessweb-card" href="ferramenta/wave/">
-    <span class="acessweb-card__number">04 · FERRAMENTA</span>
-    <strong>Aplicação do WAVE</strong>
-    <p>Avaliação automatizada complementar e interpretação dos alertas.</p>
+  <a class="checklist-index-card" href="checklist/conteudo/">
+    <strong>Conteúdo</strong>
+    <span>17 itens</span>
+  </a>
+  <a class="checklist-index-card" href="checklist/design/">
+    <strong>Design</strong>
+    <span>44 itens</span>
+  </a>
+  <a class="checklist-index-card" href="checklist/conformidade-e-robustez/">
+    <strong>Conformidade e robustez</strong>
+    <span>8 itens</span>
+  </a>
+  <a class="checklist-index-card" href="checklist/compreensao-e-entrada/">
+    <strong>Compreensão e entrada</strong>
+    <span>21 itens</span>
+  </a>
+  <a class="checklist-index-card" href="checklist/heuristicas-de-nielsen/">
+    <strong>Heurísticas de Nielsen</strong>
+    <span>26 itens</span>
   </a>
 </div>
 

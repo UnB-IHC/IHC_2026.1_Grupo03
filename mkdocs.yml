@@ -59,6 +59,7 @@ copyright: Grupo 03 — Interação Humano-Computador, UnB, 1.2026
 
 nav:
   - Início: index.md
+  - Ferramentas: ferramentas.md
   - Desenvolvimento: checklist/desenvolvimento-e-testes.md
   - Privacidade: checklist/privacidade-e-seguranca.md
   - Navegação: checklist/navegacao.md

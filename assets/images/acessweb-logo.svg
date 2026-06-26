@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title description">
+  <title id="title">AcessWeb</title>
+  <desc id="description">Letra A estilizada com um símbolo de verificação, representando acessibilidade web.</desc>
+  <rect width="240" height="240" rx="48" fill="#ffffff"/>
+  <path d="M48 184 102 48h36l54 136h-36l-12-32H94l-12 32H48Zm57-62h28l-14-39-14 39Z" fill="#1a237e"/>
+  <circle cx="174" cy="72" r="42" fill="#1565c0"/>
+  <path d="m153 72 14 14 28-32" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

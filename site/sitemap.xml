@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/index.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/design/design.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/ferramentas/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/devWeb/non_text_content.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/compreensao-e-entrada/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/geracaoConteudo/conteudo.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/conformidade-e-robustez/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/gestaoProjeto/gestaoProjeto.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/conteudo/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
     <url>
-         <loc>https://github.com/vitorfleonardo/VerificAAA/tools/ferramentas.html</loc>
-         <lastmod>2024-05-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/desenvolvimento-e-testes/</loc>
+         <lastmod>2026-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/design/</loc>
+         <lastmod>2026-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/heuristicas-de-nielsen/</loc>
+         <lastmod>2026-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/navegacao/</loc>
+         <lastmod>2026-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://unb-ihc.github.io/IHC_2026.1_Grupo03/checklist/privacidade-e-seguranca/</loc>
+         <lastmod>2026-06-26</lastmod>
     </url>
 </urlset>

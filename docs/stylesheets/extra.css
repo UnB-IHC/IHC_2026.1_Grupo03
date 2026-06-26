@@ -493,6 +493,74 @@ html {
   color: #c5cae9;
 }
 
+.acessweb-references {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  list-style: none;
+  margin: 1.25rem 0 2rem;
+  padding: 0;
+}
+
+.acessweb-reference {
+  background-color: var(--acessweb-surface);
+  border: 1px solid var(--acessweb-border);
+  border-left: 0.25rem solid var(--md-accent-fg-color);
+  border-radius: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.1rem 1.25rem 1.25rem;
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+}
+
+.acessweb-reference:hover,
+.acessweb-reference:focus-within {
+  border-color: var(--md-accent-fg-color);
+  border-left-color: var(--md-primary-fg-color);
+  box-shadow: 0 0.75rem 1.75rem rgb(27 39 94 / 14%);
+}
+
+.acessweb-reference h3 {
+  color: var(--md-primary-fg-color);
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.acessweb-reference p {
+  color: var(--acessweb-text);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.acessweb-reference__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.acessweb-reference__meta li {
+  color: var(--md-default-fg-color--light, #5f6b85);
+  font-size: 0.82rem;
+}
+
+.acessweb-reference__meta li strong {
+  color: var(--acessweb-text);
+  font-weight: 600;
+  margin-right: 0.25rem;
+}
+
+.acessweb-reference__links {
+  border-top: 1px solid var(--acessweb-border);
+  font-size: 0.85rem !important;
+  margin-top: auto !important;
+  padding-top: 0.6rem;
+}
+
 .checklist-index-grid {
   display: grid;
   gap: 1rem;
